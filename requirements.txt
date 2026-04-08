@@ -1,0 +1,21 @@
+# Networking and async handling
+asyncio             # For asynchronous network simulation
+websockets          # For simulating node-to-node communication
+
+# Cryptography / Security
+cryptography        # For encryption and key management
+pyjwt               # For token-based authentication (optional)
+hashlib             # Built-in Python, often used for hashing
+
+# Notifications / Logging
+loguru              # Advanced logging system
+pydantic            # For structured event data and validation
+requests            # For sending HTTP notifications (e.g., webhook simulation)
+
+# Testing
+pytest              # Unit testing framework
+pytest-asyncio      # Async test support
+
+# Optional utilities
+python-dotenv       # Load environment variables from .env files
+rich                # Pretty CLI outputs for simulation and notifications
