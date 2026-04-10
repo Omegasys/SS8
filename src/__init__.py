@@ -30,5 +30,5 @@ from .utils.logger import logger
 
 # Optional: set package-level metadata
 __version__ = "0.1.0"
-__author__ = "Your Name"
+__author__ = "Omega"
 __license__ = "GPLv3"
